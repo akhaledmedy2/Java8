@@ -1,4 +1,4 @@
-package thead;
+package thread;
 
 public class ThreadExample extends Thread {
 
